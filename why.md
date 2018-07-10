@@ -15,3 +15,7 @@ permalink: /why/
 Common stewardship is the antidote to the tragedy of the privates - Christian Stuart Keegan, Commons Platform community member.
 
 - We need to build ethics into our technology.
+
+# Quotes
+
+This is a time when business, technology and our systems of social engagement have lost their way through overlooking their own values and the needs of the people that they are supposedly serving and who are generating their income. We need sustainable and workable models of genuine collaboration, with integrity, respect and values at their core for very practical reasons - this is part of building a sustainable culture with long term vision, also financially, where people are genuinely represented and where their unique gifts and contributions are included. We've only just scratched the surface in terms of what is possible in collaborative structures/enterprises – Emma Stow, Commons Platform community member.

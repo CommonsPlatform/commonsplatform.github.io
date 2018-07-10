@@ -4,15 +4,6 @@ title: Terms
 permalink: /terms/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# What is the Commons? 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+According to Wikipedia, [the Commons](https://en.wikipedia.org/wiki/Commons) is the cultural and natural resources accessible to all members of a society. There can be many differnt types of Commons, such as environmental resources like land, air and water, cultural and intellectual commons like literature, music, arts and design, digital commons such as the Internet, urban commons such as shared urban spaces and knowledge commons like bodies of scientific research.

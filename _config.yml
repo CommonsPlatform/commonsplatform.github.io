@@ -16,7 +16,12 @@
 title: The Commons Platform
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Commons Platform is an open source social media platform, decentralised governance framework and economic ecosystem. It is designed to respect users and assist in the stewardship of the commons, looking after resources that belong to everyone. Whether you come from a cultural, religious, geographic or sexual minority, regardless of disability, be you an activist, a persecuted member of society, or just someone fed up with the current status quo, you can find a home with the Commons Platform. Together, we can pool our talent and resources to build a brighter world for everyone.
+  The Commons Platform is an open source social media platform, decentralised governance framework 
+  and economic ecosystem. It is designed to respect users and assist in the stewardship of the commons, 
+  looking after resources that belong to everyone. Whether you come from a cultural, religious, 
+  geographic or sexual minority, regardless of disability, be you an activist, a persecuted member of 
+  society, or just someone fed up with the current status quo, you can find a home with the Commons 
+  Platform. Together, we can pool our talent and resources to build a brighter world for everyone.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

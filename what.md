@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is the Commons Platform?
+title: What
 permalink: /what/
 ---
 

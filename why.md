@@ -28,7 +28,7 @@ permalink: /why/
 
 - We need to build ethics into our technology.
 
-"One of the few projects I've seen that, when talking about open source AI, talks first and foremost about ethics" - Kade Morton, Commons Platform community member.
+"This brings with it the risk that this exciting new sector will be dominated by the large digital platforms who currently dominate the internet... It will reduce the overall size of the AI market and the benefits that AI could bring to all of us" - Peter Wells, Head of Policy, Open Data Institute (ODI)
 
 # Quotes
 
@@ -109,3 +109,12 @@ Rumi
 
 Author James P. Carse in Finite and Infinite Games: “A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play.”
 
+Olivier Theroux, ODI head of tech: AI is already being used to save time, money, and even lives (with doctors using it to help medical diagnosis). On the other hand, this hype may fuel the potential for AI to be misused, and result in monopolies that stifle innovation.
+
+Peter Wells, ODI Head of Policy: This brings with it the risk that this exciting new sector will be dominated by the large digital platforms who currently dominate the internet. This will reduce competition and innovation. It will reduce the diversity of the problems to which AI solutions are applied. It will stifle the energy and fresh ideas that startups and SMEs bring. It will reduce the overall size of the AI market and the benefits that AI could bring to all of us. - Full quote
+
+“we don't have to play by the rules that make us miserable, we can evolve the game, we can find others that are more fun to play with. Young people are thrown out in a world that they have no ownership over, no say over the things that matter to them. Cooperatives turn that upside down.” - Unknown
+
+"When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance. Not only this, but through television and telephony we shall see and hear one another as perfectly as though we were face to face, despite intervening distances of thousands of miles; and the instruments through which we shall be able to do his will be amazingly simple compared with our present telephone. A man will be able to carry one in his vest pocket" - Nikola Tesla, 1926 
+
+“The Buddha, Shakyamuni, our teacher, predicted that the next Buddha would be Maitreya, the Buddha of love…. It is possible that the next Buddha will not take the form of an individual. The next Buddha may take the form of a community, a community practicing understanding and loving kindness, a community practicing mindful living. And the practice can be carried out as a group, as a city, as a nation. This may be the most important thing we can do for the survival of the earth” - Thich Nhat Hanh

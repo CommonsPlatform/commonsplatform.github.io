@@ -11,3 +11,7 @@ permalink: /terms/
 # What is the difference between Free and Libre?
 
 The English adjective free is commonly used in one of two meanings: ["for free" (gratis) and "with little or no restriction" (libre)](https://en.wikipedia.org/wiki/Gratis_versus_libre). As the two are differnt they must be differentiated.
+
+# What is a steward and stewardship?
+
+A [steward](https://en.wikipedia.org/wiki/Stewardship) is someone that embodies the ethics of stewardship, the planning and management of resources. The concepts of stewardship can be applied across many areas, to the environment and nature, economics, health, property, information, even theology and other areas. 

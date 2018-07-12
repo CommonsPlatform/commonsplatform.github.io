@@ -26,7 +26,7 @@ A [steward](https://en.wikipedia.org/wiki/Stewardship) is someone that embodies 
 * Discrepancies in resources between the centre and other areas are usually significant.
 * Many actors are often excluded from the decision making, reducing the capacity of single point of truth to resolve disputes or design effective plans requiring personalised knowledge and expertise.
 
-[Decentralization](https://en.wikipedia.org/wiki/Decentralization) on the other hand, is the process by which activities like planning and decision-making, are shifted away from a single point of truth. Decentralisation is preferred by the Commons Platform as it addresses the above mentioned problems in the below ways:
+[Decentralisation](https://en.wikipedia.org/wiki/Decentralization) on the other hand, is the process by which activities like planning and decision-making, are shifted away from a single point of truth. Decentralisation is preferred by the Commons Platform as it addresses the above mentioned problems in the below ways:
 
 * As there are multiple points of the same truth, which is group concensus, it is easy to check what the consensus is. If there are any issues, groups have the abilites to make their own decisions.
 * Attention and support across different parties should be more equal as many parties get a say in the distribution.

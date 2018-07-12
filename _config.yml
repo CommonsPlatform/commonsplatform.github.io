@@ -16,7 +16,7 @@
 title: The Commons Platform
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Commons Platform is an open source social media platform, decentralised governance template 
+  The Commons Platform is an open source social media platform, group governance template 
   and marketplace. It is designed to respect users and assist in the stewardship of the commons, 
   looking after resources that belong to everyone. 
 baseurl: "" # the subpath of your site, e.g. /blog

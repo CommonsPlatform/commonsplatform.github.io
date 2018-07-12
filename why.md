@@ -30,3 +30,6 @@ permalink: /why/
 
 "This brings with it the risk that this exciting new sector will be dominated by the large digital platforms who currently dominate the internet... It will reduce the overall size of the AI market and the benefits that AI could bring to all of us" - Peter Wells, Head of Policy, Open Data Institute (ODI)
 
+# Further information
+
+Click [here](https://commonsplatform.github.io/why_more/) for more.
